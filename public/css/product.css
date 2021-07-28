@@ -1,0 +1,31 @@
+.product-form {
+  width: 20rem;
+  max-width: 90%;
+  margin: auto;
+  display: block;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  padding: 1rem;
+  border-radius: 7px;
+}
+
+.product-item {
+  width: 20rem;
+  max-width: 95%;
+  margin: 1rem;
+}
+
+.product__title {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.product__price {
+  text-align: center;
+  color: #000000;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.product__description {
+  text-align: center;
+}
