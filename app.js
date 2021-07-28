@@ -157,7 +157,7 @@ mongoose
 
 // mongoose
 //   .connect(
-//     "mongodb+srv://rexdex:XRVGtCSBRTD3nqUT@cluster0.rgefe.mongodb.net/shop?retryWrites=true&w=majority",
+//     "mongodb+srv://:@cluster0.rgefe.mongodb.net/?retryWrites=true&w=majority",
 //     { useNewUrlParser: true, useUnifiedTopology: true }
 //   )
 //   .then((result) => {
