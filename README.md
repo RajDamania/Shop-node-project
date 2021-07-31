@@ -1,4 +1,18 @@
+
 # Shop-node-project
+Shop webapp built on nodejs with ejs template and database is connect to mongoDB
+
+
+# website Hosted on heroku:
+https://shop-nodejs-project.herokuapp.com/
+
+# How to initialize this project
+- run npm install it will download all the dependencies
+> npm install
+
+- use your own mongodb database and Stripe api test key to work
+
+- currently stripe payment processing does not work as i only used test key.
 
 
 # Getting Started:
